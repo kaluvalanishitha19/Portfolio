@@ -11,7 +11,7 @@ My personal portfolio site - a dark-themed, interactive space to showcase my wor
 
 ## About
 
-This site is where I bring together my engineering work, design sensibility, and the projects I've built. I wanted it to feel different from a typical resume-in-a-browser — dark, a little playful, with small interactive touches that reward scrolling around instead of just listing bullet points.
+This site is where I bring together my engineering work, design sensibility, and the projects I've built. I wanted it to feel different from a typical resume-in-a-browser dark, a little playful, with small interactive touches that reward scrolling around instead of just listing bullet points.
 
 ## Sections
 
