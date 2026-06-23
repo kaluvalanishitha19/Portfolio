@@ -1,6 +1,6 @@
 # Portfolio
 
-My personal portfolio site — a dark-themed, interactive space to showcase my work as a Full Stack / Frontend Engineer.
+My personal portfolio site - a dark-themed, interactive space to showcase my work as a Full Stack / Frontend Engineer.
 
 **Live site:** [nishithakaluvala-portfolio.vercel.app](https://nishithakaluvala-portfolio.vercel.app/)
 
@@ -40,5 +40,5 @@ Open `http://localhost:5173` to view it.
 
 ## Notes
 
-This is a living project — I update it as I build new things and refine the design. Feedback welcome.
+This is a living project, I update it as I build new things and refine the design. Feedback welcome.
 
